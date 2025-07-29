@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Raj Srivastava!</h1>
 
-<h3 align="center">Motivated and detail-oriented Software Engineer with internship experience in developing applications using Java, Spring
+<h3 align="center">Motivated and detail-oriented Software Engineer with experience in developing applications using Java, Spring
 Boot, and MySQL. Solid foundation in OOP, data structures, and software development lifecycle. Skilled in version control,
 API testing, and team collaboration. Committed to writing clean, maintainable code and contributing to impactful software
 projects</h3>
@@ -23,18 +23,14 @@ projects</h3>
 <p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
 <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=django" alt="Django" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=googlecloud" alt="Google Cloud" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="45" style="vertical-align: middle; margin: 5px;" />
@@ -44,6 +40,13 @@ projects</h3>
   <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/selenium" alt="Selenium" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/jira" alt="Jira" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
 
@@ -59,6 +62,12 @@ projects</h3>
   <a href="https://linkedin.com/in/raj-srivastava-b51053207/" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
   </a>
+  <a href="https://instagram.com/_thenameisraj_" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://leetcode.com/thenameisraj" target="_blank" rel="noreferrer noopener" title="LeetCode" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
 </p>
 </div>
 
@@ -69,5 +78,5 @@ projects</h3>
 <p align="center"><img src="https://streak-stats.demolab.com/?user=rajsrivastava254&theme=prussian&hide_border=true" alt="GitHub Streak Stats" /></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajsrivastava254&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rajsrivastava254&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://twitter.com/_thenameisraj_" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/_thenameisraj_?logo=x&style=social" alt="Follow @_thenameisraj_ on Twitter" /></a>
 </p>
