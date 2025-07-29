@@ -18,21 +18,6 @@ projects</h3>
 - 📄 **[My Resume](https://drive.google.com/file/d/1u-TsH-gNDbIAtBM5cL7QP-_xTrhPHNW7/view?usp=sharing)**
 - ⚡ Fun fact: **Gaming🎮**
 
-<h3 align="left">Connect with me:</h3>
-<div class="social-icons-wrapper">
-<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-<a href="https://github.com/rajsrivastava254" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://twitter.com/_thenameisraj_" target="_blank" rel="noreferrer noopener" title="Twitter / X" class="social-icon-link">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter / X" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://linkedin.com/in/raj-srivastava-b51053207/" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-</p>
-</div>
-
 <div class="skills-section">
 <h3 align="left">Languages and Tools:</h3>
 <p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
@@ -62,11 +47,26 @@ projects</h3>
 </p>
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rajsrivastava254&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="rajsrivastava254's GitHub Stats" /></p>
+<h3 align="left">Connect with me:</h3>
+<div class="social-icons-wrapper">
+<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
+<a href="https://github.com/rajsrivastava254" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://twitter.com/_thenameisraj_" target="_blank" rel="noreferrer noopener" title="Twitter / X" class="social-icon-link">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter / X" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://linkedin.com/in/raj-srivastava-b51053207/" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+</p>
+</div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajsrivastava254&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rajsrivastava254&show_icons=true&locale=en&theme=prussian&count_private=true&hide_border=true" alt="rajsrivastava254's GitHub Stats" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=rajsrivastava254&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajsrivastava254&locale=en&theme=prussian&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=rajsrivastava254&theme=prussian&hide_border=true" alt="GitHub Streak Stats" /></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajsrivastava254&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
