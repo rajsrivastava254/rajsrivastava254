@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rajsrivastava254/ajsrivastava254/blob/main/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image.png" alt="Profile Banner" width="100%">
+  <img src="https://github.com/rajsrivastava254/rajsrivastava254/blob/main/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image%20(1).png" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Raj Srivastava!</h1>
