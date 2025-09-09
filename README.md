@@ -15,7 +15,7 @@ projects</h3>
 - 🔭 I’m currently working on: **Portfolio**
 - 💬 Ask me about: **Software Engineering**
 - 📫 How to reach me: [srivastava.raj2504@gmail.com](mailto:srivastava.raj2504@gmail.com)
-- 📄 **[My Resume](https://drive.google.com/file/d/1u-TsH-gNDbIAtBM5cL7QP-_xTrhPHNW7/view?usp=sharing)**
+- 📄 **[My Resume](https://drive.google.com/file/d/1ZdaEQxk5NIzGgBpkAThHytvGpF272r89/view?usp=sharing)**
 - ⚡ Fun fact: **Gaming🎮**
 
 <div class="skills-section">
